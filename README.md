@@ -7,10 +7,15 @@ Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
 
 pip install pandas
+
 pip install datetime
+
 pip install requests
+
 pip install csv
+
 pip install lxml
+
 pip install BeautifulSoup
 
 
